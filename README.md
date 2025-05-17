@@ -1,1 +1,1 @@
-# Finals-Task-6-MOngoDBCRUD
+# Finals-Lab-Task-6-MOngoDBCRUD
